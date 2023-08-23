@@ -1,0 +1,63 @@
+
+
+    [
+        {
+            "id": 1,
+            "titulo": "Cebollin",
+            "descripcion": "Origen local.",
+            "categoria": "organico",
+            "imagen": "https://www.wiselife.cl/wp-content/uploads/2021/02/cebollin.jpg",
+            "precio": 1000,
+            "stock": 10
+        },
+        {
+            "id": 2,
+            "titulo": "Zanahoria",
+            "descripcion": "Cosecha local.",
+            "categoria": "organico",
+            "imagen": "https://www.procomer.com/wp-content/uploads/Alertas-comerciales_zanahoria.jpg",
+            "precio": 1200,
+            "stock": 10
+        },
+        {
+            "id": 3,
+            "titulo": "Lechuga",
+            "descripcion": "del dia.",
+            "categoria": "fresca",
+            "imagen": "https://biotrendies.com/wp-content/uploads/2015/07/lechuga.jpg",
+            "precio": 1100,
+            "stock": 10
+        },
+        {
+            "id": 4,
+            "titulo": "Tomate",
+            "descripcion": "de Limache.",
+            "categoria": "fresca",
+            "imagen": "https://s1.eestatic.com/2021/07/12/actualidad/595952167_195030066_1706x960.jpg",
+            "precio": 2500,
+            "stock": 10
+        },
+        {
+            "id": 5,
+            "titulo": "Espinaca",
+            "descripcion": "organico.",
+            "categoria": "organico",
+            "imagen": "https://www.metroworldnews.com/resizer/IAZTsZzFHcgSK-FFelcWrSf29PQ=/800x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/metroworldnews/XX4ZQLC5GJHHTMIQQLUBEKZAQY.jpg",
+            "precio": 1500,
+            "stock": 10
+        },
+        {
+            "id": 6,
+            "titulo": "Papas",
+            "descripcion": "origen norte.",
+            "categoria": "organico",
+            "imagen": "https://comoconservar.org/wp-content/uploads/conservar-papa.jpg",
+            "precio": 1500,
+            "stock": 10
+        }
+        
+    
+    ]
+
+
+   
